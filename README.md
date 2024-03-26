@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franciscojpc
-- 👀 I’m interested in artificial intelligence and dev web
+- 👀 I’m interested in artificial intelligence.
 
 <!---
 franciscojpc/franciscojpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
